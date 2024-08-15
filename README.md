@@ -6,7 +6,9 @@ The autoclicker works on the basis of machine vision using the OpenCV library, e
 If you have any questions
 about the operation of the autoclicker, write to me in 
 Telegram https://t.me/o4ertov_andy
-
+===============================================================================
+for the correct operation of the autoclicker,
+position the window as shown in the secsesful.png image
 
 I will be glad of any help to improve the work of this project and other projects.
 
