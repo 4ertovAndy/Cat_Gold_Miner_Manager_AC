@@ -1,3 +1,7 @@
+https://t.me/catgoldminerbot?start=club_1002133984429_1381134107
+Hey there! Ever tried Cat Gold Miner? 🐱💰 It's a blast! Wanna team up and dig for treasures together?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 The autoclicker atomically activates the "dancing cat(x2 boost)
 and the managers at the mines. 
 ===============================================================================
